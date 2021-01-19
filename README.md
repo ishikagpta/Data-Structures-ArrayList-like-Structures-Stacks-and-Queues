@@ -3,7 +3,7 @@ Project from CSS 143 UWB course
 
 Summary
 
-Build three classes that conform to the following interfaces. Use arrays in creating your classes (e.g., donot use the built-in ArrayList class when creating the ArrayList-like interface). Extend the sample driverbelow to completely test the FIFO nature of a Queue, the LIFO nature of a stack and the arbitrary insertsand removes in an ArrayList-like structure.
+I built three classes that conform to the following interfaces. Used arrays in creating my classes (e.g., did not use the built-in ArrayList class when creating the ArrayList-like interface). Extended the sample driver below to completely test the FIFO nature of a Queue, the LIFO nature of a stack and the arbitrary insertsand removes in an ArrayList-like structure.
 
 Sample Driver file posted named ArrayBasedDataStructuresDriver.java
 
